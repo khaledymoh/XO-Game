@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XOGame</string>
+
+    <string name="label_game_activity_your_are_the_winner">You Are The Winner</string>
+    <string name="label_game_activity_your_turn">Your Turn</string>
+</resources>
